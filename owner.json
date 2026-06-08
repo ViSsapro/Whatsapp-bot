@@ -1,0 +1,25 @@
+{
+    "name": "Thuhi MD",
+    "description": "Power Full Whatsapp User Bot",
+    "last_updated": "2026-06-08",
+    "data": {
+        "Thuhi_Multi_Device": {
+            "owner": "vimukthi thuhina",
+            "number": ["94760762142"],
+            "emoji": ["💃"],
+            "team": ["94760762142"],
+            "main_groups": ["120363027665818489", "94760762142"],
+            "group_join_codes": ["https://github.com/ViSsapro/---.git"],
+            "banned_user": "",
+            "banned_group": ""
+        },
+        "Thuhi_Amdi": {
+            "owner": "vimukthi thuhina",
+            "number": ["94760762142"],
+            "emoji": ["😈"],
+            "main_groups": ["120363027665818489"],
+            "banned_user": "",
+            "banned_group": ""
+        }
+    }
+}
