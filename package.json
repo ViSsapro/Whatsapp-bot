@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/ViSsapro/---#readme",
     "dependencies": {
-        "@adiwajshing/baileys": "git+https://github.com/ViSsapro/---.git/Baileys-thuhi-md-",
+        "@adiwajshing/baileys": "npm:amiudmodz",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@blackamda/song_video_dl": "^1.0.0",
         "@blackamda/telegram-image-url": "^1.0.0",
