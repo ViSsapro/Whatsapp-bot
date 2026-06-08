@@ -1,0 +1,24 @@
+{
+    "name": "Thuhi MD",
+    "description": "Thuhi MD [Multi-device] - A Power Full Whatsapp User Bot by vimukthi thuhina",
+    "keywords": [
+        "Thuhi MD",
+        "WhatsApp",
+        "multi-device",
+        "bot"
+    ],
+    "repository": "https://github.com/ViSsapro/---.git",
+    "logo": "https://telegra.ph/file/d71f54d2a142c956f5cbf.jpg",
+    "env": {
+        "OWNER_NAME": {
+            "description": "Name of the bot owner",
+            "required": true,
+            "value": "vimukthi thuhina"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ]
+}
